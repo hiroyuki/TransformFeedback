@@ -3,4 +3,4 @@ ofxTransformFeedback
 
 openFrameworks addon for openGL transformfeedback
 
-special thanks @satoruhiga
+special thanks to [satoruhiga](github.com/satoruhiga)
